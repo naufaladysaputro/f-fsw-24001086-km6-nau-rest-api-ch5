@@ -168,6 +168,16 @@ Response Body:
  
     }
 
+### Email dan Password SuperAdmin
+
+Test untuk mengotentikasi pengguna dalam sebuah sistem.
+
+    {
+	    "status": "success",
+	    "message": "Berhasil login",
+        "data": "token"
+    }
+
 
 
   
