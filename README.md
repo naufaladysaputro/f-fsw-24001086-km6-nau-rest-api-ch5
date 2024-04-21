@@ -18,10 +18,12 @@ dbdiagram.png
 
 ### Built With
 
+- Dotenv
 - ExpressJS
-- Bootstrap
+- Bcrypt
 - Sequelize
 - Postgres
+- Imagekit
 
 
 ### Tabel database
