@@ -10,3 +10,22 @@
 
   <p align="center">Rest Api Swagger</p>
 </div>
+
+dbdiagram.png
+
+## ABOUT THE PROJECT
+
+
+### Built With
+
+- ExpressJS
+- Bootstrap
+- Sequelize
+- Postgres
+
+
+### Tabel database
+
+![erd](docs/dbdiagram.png)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
