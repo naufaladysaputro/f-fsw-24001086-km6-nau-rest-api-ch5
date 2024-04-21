@@ -7,9 +7,9 @@ module.exports = {
   async up(queryInterface, Sequelize) {
     const users = [
       {
-        name: "fadhlan",
+        name: "naufal",
         age: 20,
-        address: "Bogor",
+        address: "Bekasi",
         role: "Superadmin",
         createdAt: new Date(),
         updatedAt: new Date(),

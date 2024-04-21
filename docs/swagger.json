@@ -1,7 +1,7 @@
 {
   "openapi": "3.0.0",
   "info": {
-    "title": "Challenge FSW 2 Chapter 5",
+    "title": "Challenge FSW 1 Chapter 5",
     "description": "ini challenge kami",
     "version": "1.0.0"
   },
@@ -39,11 +39,11 @@
                 "properties": {
                   "email": {
                     "type": "string",
-                    "example": "fadhlan@gmail.com"
+                    "example": "naufal@gmail.com"
                   },
                   "password": {
                     "type": "string",
-                    "example": "fadhlan123"
+                    "example": "naufal123"
                   }
                 }
               }
@@ -111,6 +111,11 @@
     "/auth/register": {
       "post": {
         "tags": ["Auths"],
+        "security": [
+          {
+            "bearerToken": []
+          }
+        ],
         "summary": "Return hasil hit API register member",
         "description": "ini API utk register member",
         "requestBody": {
