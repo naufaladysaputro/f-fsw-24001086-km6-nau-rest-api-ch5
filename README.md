@@ -3,7 +3,7 @@
 
 <br />
 <div align="center">
-    <img src="views/assets/doc/logo_rm.png" alt="Logo" width="80" height="80">
+    <img src="docs/logo_rm.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Challenge 5 Binar Fullstack Web</h3>
