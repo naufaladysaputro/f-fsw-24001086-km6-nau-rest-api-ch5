@@ -65,6 +65,43 @@ Response Body:
 	  }
  
     }
+
+#### *HTTP Request*
+> **POST**   
+> `/auth/register
+>
+
+#### *Expected Response*
+Response Code: `201`  
+Response Type: `application/json`  
+Response Body:  
+
+    {
+	    "status": "success",
+	    "data": {
+     		"dataValues": {
+      		"id": ,
+      		"name": ,
+      		"address": ,
+      		"role": ,
+      		"age": ,
+      		"updatedAt": ,
+      		"createdAt": 
+	    }
+    }
+
+Response Code: `400`  
+Response Type: `application/json`  
+Response Body:  
+
+    {
+	    "status": "Failed",
+	    "data": {
+    		"message": "email atau password harus diisi"
+	  }
+ 
+    }
+
   
 
 
