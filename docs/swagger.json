@@ -283,11 +283,11 @@
                       "type": "object",
                       "example": {
                         "id": 1,
-                        "name": "fadhlan",
+                        "name": "naufal",
                         "age": 20,
-                        "address": "Bogor",
+                        "address": "Bekasi",
                         "role": "Superadmin",
-                        "email": "fadhlan@gmail.com"
+                        "email": "naufal@gmail.com"
                       }
                     }
                   }
@@ -575,15 +575,15 @@
                         "users": [
                           {
                             "id": 1,
-                            "name": "fadhlan",
+                            "name": "naufal",
                             "age": 20,
-                            "address": "Bogor",
+                            "address": "Bekasi",
                             "role": "Superadmin",
                             "createdAt": "2023-10-21T05:45:15.380Z",
                             "updatedAt": "2023-10-21T05:45:15.380Z",
                             "Auth": {
                               "id": 1,
-                              "email": "fadhlan@gmail.com",
+                              "email": "naufal@gmail.com",
                               "password": "$2a$10$w21UZzMLTtQBAem8xZYqQOjw4gfv/I4x61J3SuCtMZCpVM6p5E9TC",
                               "userId": 1,
                               "createdAt": "2023-10-21T05:45:15.389Z",
@@ -724,15 +724,15 @@
                       "example": {
                         "users": {
                           "id": 1,
-                          "name": "fadhlan",
+                          "name": "naufal",
                           "age": 20,
-                          "address": "Bogor",
+                          "address": "Bekasi",
                           "role": "Superadmin",
                           "createdAt": "2023-10-21T05:45:15.380Z",
                           "updatedAt": "2023-10-21T05:45:15.380Z",
                           "Auth": {
                             "id": 1,
-                            "email": "fadhlan@gmail.com",
+                            "email": "naufal@gmail.com",
                             "password": "$2a$10$w21UZzMLTtQBAem8xZYqQOjw4gfv/I4x61J3SuCtMZCpVM6p5E9TC",
                             "userId": 1,
                             "createdAt": "2023-10-21T05:45:15.389Z",
@@ -1269,8 +1269,8 @@
                           "model": "Toyota",
                           "type": "Avanza",
                           "price": 200000,
-                          "createdBy": "fadhlan",
-                          "lastUpdatedBy": "fadhlan",
+                          "createdBy": "naufal",
+                          "lastUpdatedBy": "naufal",
                           "imageUrl": null,
                           "updatedAt": "2023-10-22T07:55:20.050Z",
                           "createdAt": "2023-10-22T07:55:20.050Z",
@@ -1369,9 +1369,9 @@
                             "type": "Avanza",
                             "price": 200000,
                             "imageUrl": null,
-                            "createdBy": "fadhlan",
+                            "createdBy": "naufal",
                             "deletedBy": null,
-                            "lastUpdatedBy": "fadhlan",
+                            "lastUpdatedBy": "naufal",
                             "deletedAt": null,
                             "createdAt": "2023-10-22T07:55:20.050Z",
                             "updatedAt": "2023-10-22T07:55:20.050Z"
@@ -1481,9 +1481,9 @@
                             "type": "Avanza",
                             "price": 200000,
                             "imageUrl": null,
-                            "createdBy": "fadhlan",
+                            "createdBy": "naufal",
                             "deletedBy": null,
-                            "lastUpdatedBy": "fadhlan",
+                            "lastUpdatedBy": "naufal",
                             "deletedAt": null,
                             "createdAt": "2023-10-22T07:55:20.050Z",
                             "updatedAt": "2023-10-22T07:55:20.050Z"
@@ -1657,9 +1657,9 @@
                             "type": "Avanza",
                             "price": 200000,
                             "imageUrl": null,
-                            "createdBy": "fadhlan",
+                            "createdBy": "naufal",
                             "deletedBy": null,
-                            "lastUpdatedBy": "fadhlan",
+                            "lastUpdatedBy": "naufal",
                             "deletedAt": null,
                             "createdAt": "2023-10-22T07:55:20.050Z",
                             "updatedAt": "2023-10-22T07:55:20.050Z"
@@ -1670,9 +1670,9 @@
                             "type": "Terios",
                             "price": 280000,
                             "imageUrl": null,
-                            "createdBy": "fadhlan",
+                            "createdBy": "naufal",
                             "deletedBy": null,
-                            "lastUpdatedBy": "fadhlan",
+                            "lastUpdatedBy": "naufal",
                             "deletedAt": null,
                             "createdAt": "2023-10-22T07:55:20.050Z",
                             "updatedAt": "2023-10-22T07:55:20.050Z"
@@ -1822,8 +1822,8 @@
                           "model": "Daihatsu",
                           "type": "Xenia",
                           "price": 25000,
-                          "createdBy": "fadhlan",
-                          "lastUpdatedBy": "fadhlan",
+                          "createdBy": "naufal",
+                          "lastUpdatedBy": "naufal",
                           "imageUrl": null,
                           "updatedAt": "2023-10-22T07:55:20.050Z",
                           "createdAt": "2023-10-22T07:55:20.050Z",
