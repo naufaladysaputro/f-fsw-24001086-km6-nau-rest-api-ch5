@@ -51,14 +51,21 @@ Response Body:
     {
 	    "status": "success",
 	    "message": "Berhasil login",
-        "data": "token
+        "data": "token"
     }
 
-   "{
-      "status": "Success",
-      "message": "Berhasil login",
-      "data": "token"
-    }"
+Response Code: `400`  
+Response Type: `application/json`  
+Response Body:  
+
+    {
+	    "status": "Failed",
+	    "data": {
+    		"message": "email atau password harus diisi"
+	  }
+ 
+    }
+  
 
 
 
