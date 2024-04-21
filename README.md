@@ -29,6 +29,7 @@
 
 ![erd](docs/dbdiagram.png)
 
+## REST API Endpoints
 ### Auth
 
 Test untuk mengotentikasi pengguna dalam sebuah sistem.
@@ -37,10 +38,21 @@ Test untuk mengotentikasi pengguna dalam sebuah sistem.
 > **POST**   
 > `/auth/login
 > 
-## REST API Endpoints
 
 #### *Default Request URL*
 
     "http://localhost:3000/api/v1"
+
+#### *Expected Response*
+Response Code: `200`  
+Response Type: `application/json`  
+Response Body:  
+
+   {
+  "status": "Success",
+  "message": "Berhasil login",
+  "data": "token"
+}
+
 
 
