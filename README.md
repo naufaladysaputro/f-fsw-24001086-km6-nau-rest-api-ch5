@@ -31,3 +31,17 @@ dbdiagram.png
 ![erd](docs/dbdiagram.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+## REST API Endpoints
+### Auth
+
+Test untuk mengotentikasi pengguna dalam sebuah sistem.
+
+#### *HTTP Request*
+> **GET**   
+> `/api`
+
+#### *Default Request URL*
+
+    "http://localhost:3000/api/v1"
