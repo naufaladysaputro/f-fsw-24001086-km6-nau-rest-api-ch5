@@ -48,6 +48,12 @@ Response Code: `200`
 Response Type: `application/json`  
 Response Body:  
 
+    {
+	    "status": "success",
+	    "message": "Berhasil login",
+        "data": "token
+    }
+
    "{
       "status": "Success",
       "message": "Berhasil login",
