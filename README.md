@@ -1,4 +1,5 @@
 # f-fsw-24001086-km6-nau-rest-api-ch5
+http://localhost:3000/api-docs/#/
 <div id="top"></div>
 
 <br />
